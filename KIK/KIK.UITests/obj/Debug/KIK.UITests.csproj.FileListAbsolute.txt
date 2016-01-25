@@ -1,0 +1,9 @@
+C:\Users\macie_000\Documents\Projects\KIK\KIK.UITests\bin\Debug\KIK.UITests.dll
+C:\Users\macie_000\Documents\Projects\KIK\KIK.UITests\bin\Debug\KIK.UITests.pdb
+C:\Users\macie_000\Documents\Projects\KIK\KIK.UITests\bin\Debug\nunit.framework.dll
+C:\Users\macie_000\Documents\Projects\KIK\KIK.UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\macie_000\Documents\Projects\KIK\KIK.UITests\bin\Debug\nunit.framework.xml
+C:\Users\macie_000\Documents\Projects\KIK\KIK.UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\macie_000\Documents\Projects\KIK\KIK.UITests\obj\Debug\KIK.UITests.csprojResolveAssemblyReference.cache
+C:\Users\macie_000\Documents\Projects\KIK\KIK.UITests\obj\Debug\KIK.UITests.dll
+C:\Users\macie_000\Documents\Projects\KIK\KIK.UITests\obj\Debug\KIK.UITests.pdb

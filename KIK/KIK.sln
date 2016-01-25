@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KIK", "KIK\KIK.csproj", "{2D4C54D6-2443-48A4-A532-BF46EE2F9873}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KIK.UITests", "KIK.UITests\KIK.UITests.csproj", "{CA298690-01C9-4155-AF17-E915236CE853}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D4C54D6-2443-48A4-A532-BF46EE2F9873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4C54D6-2443-48A4-A532-BF46EE2F9873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4C54D6-2443-48A4-A532-BF46EE2F9873}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2D4C54D6-2443-48A4-A532-BF46EE2F9873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4C54D6-2443-48A4-A532-BF46EE2F9873}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA298690-01C9-4155-AF17-E915236CE853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA298690-01C9-4155-AF17-E915236CE853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA298690-01C9-4155-AF17-E915236CE853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA298690-01C9-4155-AF17-E915236CE853}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

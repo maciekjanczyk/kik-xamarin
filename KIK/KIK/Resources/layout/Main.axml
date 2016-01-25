@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <TextView
+        android:text="KIKOnline"
+        android:layout_width="match_parent"
+        android:layout_height="76.4dp"
+        android:id="@+id/textView1"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        android:typeface="monospace"
+        android:gravity="center" />
+    <TextView
+        android:text="Gra KIKOnline pozwala Tobie grać z innymi z każdym użytkownikiem w Internecie. Nie ma kont gry - wpisujesz swoją nazwę i możesz dzielić się zabawą z innymi! Przeglądaj wolnych graczy i zaproś ich do gry!"
+        android:layout_width="match_parent"
+        android:layout_height="69.9dp"
+        android:id="@+id/textView3"
+        android:textStyle="italic" />
+    <TextView
+        android:text="Wpisz swój login:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/loginArea" />
+    <Button
+        android:text="Zaloguj"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/zalogujButton" />
+</LinearLayout>

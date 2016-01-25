@@ -1,0 +1,8 @@
+C:\Users\macie_000\Documents\Projects\KIK\KIK.UITests\bin\Release\KIK.UITests.dll
+C:\Users\macie_000\Documents\Projects\KIK\KIK.UITests\bin\Release\KIK.UITests.pdb
+C:\Users\macie_000\Documents\Projects\KIK\KIK.UITests\bin\Release\nunit.framework.dll
+C:\Users\macie_000\Documents\Projects\KIK\KIK.UITests\bin\Release\Xamarin.UITest.dll
+C:\Users\macie_000\Documents\Projects\KIK\KIK.UITests\bin\Release\nunit.framework.xml
+C:\Users\macie_000\Documents\Projects\KIK\KIK.UITests\bin\Release\Xamarin.UITest.xml
+C:\Users\macie_000\Documents\Projects\KIK\KIK.UITests\obj\Release\KIK.UITests.dll
+C:\Users\macie_000\Documents\Projects\KIK\KIK.UITests\obj\Release\KIK.UITests.pdb

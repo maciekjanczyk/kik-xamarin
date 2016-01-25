@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout1"
+        android:gravity="center">
+        <Button
+            android:layout_height="230sp"
+            android:id="@+id/pole1"
+            android:layout_width="230sp"
+            android:textSize="@dimen/buttonTextSize"
+            android:textStyle="bold" />
+        <Button
+            android:layout_width="230sp"
+            android:layout_height="230sp"
+            android:id="@+id/pole2"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+        <Button
+            android:layout_width="230sp"
+            android:layout_height="230sp"
+            android:id="@+id/pole3"
+            android:textStyle="bold"
+            android:textSize="40sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout2"
+        android:gravity="center">
+        <Button
+            android:layout_width="230sp"
+            android:layout_height="230sp"
+            android:id="@+id/pole4"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+        <Button
+            android:layout_width="230sp"
+            android:layout_height="230sp"
+            android:id="@+id/pole5"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+        <Button
+            android:layout_width="230sp"
+            android:layout_height="230sp"
+            android:id="@+id/pole6"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout3"
+        android:gravity="center">
+        <Button
+            android:layout_width="230sp"
+            android:layout_height="230sp"
+            android:id="@+id/pole7"
+            android:textStyle="bold"
+            android:textSize="40sp" />
+        <Button
+            android:layout_width="230sp"
+            android:layout_height="230sp"
+            android:id="@+id/pole8"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+        <Button
+            android:layout_width="230sp"
+            android:layout_height="230sp"
+            android:id="@+id/pole9"
+            android:textSize="40sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="13.5dp"
+        android:id="@+id/space1" />
+    <TextView
+        android:text="Gracze:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView1"
+        android:textStyle="bold"
+        android:textSize="50sp" />
+    <TextView
+        android:text="Nickname:  Znak:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:textSize="40sp" />
+    <TextView
+        android:text="Nickname:  Znak:"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3"
+        android:textSize="40sp" />
+</LinearLayout>
